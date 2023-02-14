@@ -6,7 +6,7 @@ export default function Home() {
     <div className="min-h-screen h-full">
         <div className="flex justify-center items-center w-full h-full">
             <div>
-                <Link className="" to="/FormControl"></Link>
+                <Link className="text-black" to="/FormControl">Form Control</Link>
                 
             </div>
         </div>
